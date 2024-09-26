@@ -1,0 +1,2 @@
+This program prompts the user to input the center point of the circle as well as a point on the edge of a circle. Then, the user is provided a menu from which he or she can choose the following options: 1) Radius, 2) Cirumference, 3) Area, and 4) Exit the program. 
+The distance between the two provided points is used to calculate the radius of the circle. Using this information, the radius can be calculated. This radius value can then be used to calculate the circumference and area of the respective circle.
